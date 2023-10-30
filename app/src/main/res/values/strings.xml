@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Кинотеатр</string>
+    <string name="item_favorite">Избранное</string>
+    <string name="feedback">Обратная связь</string>
+</resources>
